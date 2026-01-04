@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/abhishek-thakur-5b93b2357" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/abhi_x_thakur" target="_blank">
+  <a href="https://www.instagram.com/thakur_X_abhi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/abhishek4304444" target="_blank">
